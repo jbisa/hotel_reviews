@@ -1,0 +1,22 @@
+var words = [
+	{text: "staff", size: 7},
+	{text: "like", size: 4},
+	{text: "nights", size: 3},
+	{text: "small", size: 3},
+	{text: "friendly", size: 3},
+	{text: "great", size: 3},
+	{text: "location", size: 3},
+	{text: "friendly,", size: 2},
+	{text: "helpful", size: 2},
+	{text: "professional", size: 2},
+	{text: "WiFi", size: 2},
+	{text: "sleep", size: 2},
+	{text: "little", size: 2},
+	{text: "Great", size: 2},
+	{text: "breakfast", size: 2},
+	{text: "extremely", size: 2},
+	{text: "super", size: 2},
+	{text: "clean,", size: 2},
+	{text: "attentive", size: 2},
+	{text: "anyone", size: 2}
+];
